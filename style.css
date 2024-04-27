@@ -1,0 +1,14 @@
+
+  body{
+    background-color: black;
+    color: white;
+
+  }
+  span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 250px auto;
+    font-size: xx-large;
+    
+  }
